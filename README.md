@@ -1,5 +1,5 @@
 # ITP1
-Using p5.js to create a simple html game.
+Using p5.js to create a simple HTML game.
 
 To start, run the index.html file.
 F5 to restart the game.
